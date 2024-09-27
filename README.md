@@ -1,5 +1,7 @@
 A Sample of Public School Enrollment System Based on Mambugan National High-School in Antipolo:
 
+[![My Skills](https://skillicons.dev/icons?i=js,vite,react,oracle,nodejs)](https://skillicons.dev)
+
 Languages & Frameworks Used:
 React JS (vite)
 Node JS (Express JS)
